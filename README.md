@@ -1,11 +1,9 @@
-
-# Deep Learning introduction at University Ramon Llull LaSalle, 2018
-
 [![Join the chat at https://gitter.im/MLatURL2018/Lobby](https://badges.gitter.im/MLatURL2018/Lobby.svg)](https://gitter.im/MLatURL2018/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-## Curricula:
+## Deep Learning introduction at University Ramon Llull LaSalle, 2018
 
-### Introduction
+
+### Day1: Introduction
 - logistic regression, neural nets, gradients
 - backpropogation, chain rule
 - optimization strategy
@@ -16,7 +14,7 @@
     + http://pytorch.org/tutorials/beginner/blitz/autograd_tutorial.html#sphx-glr-beginner-blitz-autograd-tutorial-py
     + https://github.com/spro/practical-pytorch
     
-### Dealing with images
+### Day2: Dealing with images
 - convolutional layers
 - vanishing/exploding activations
 - pooling layers
@@ -25,7 +23,7 @@
 - links:
     + http://cs231n.github.io/convolutional-networks/
 
-### Dealing with sequences
+### Day3: Dealing with sequences
 - Recurrent Neural Networks
 - vanishing/exploding gradients
 - LSTM, GRU
@@ -35,7 +33,7 @@
     + https://larseidnes.com/2015/10/13/auto-generating-clickbait-with-recurrent-neural-networks/
     + https://jhui.github.io/2017/03/15/RNN-LSTM-GRU/
 
-### Reinforcement learning
+### Day4: Reinforcement learning
 - strategy learning
 - OpenAI gym
 - Pole balancing
@@ -43,7 +41,7 @@
     + https://github.com/yandexdataschool/Practical_RL
     + https://github.com/yandexdataschool/sklearn-deeprl/blob/master/Sklearn_CEM_LunarLander.ipynb
 
-### Generative Adversarial Networks
+### Day5: Generative Adversarial Networks
 - Autoencoders, dimensionality reduction
 - domain adaptation
 - GANs
@@ -52,4 +50,4 @@
     + https://arxiv.org/abs/1409.7495
     + https://github.com/soumith/ganhacks
 
-Tons of kudos to [Sasha aka Hedgehog Paning](https://github.com/justheuristic/)!
+Tons of kudos to [Sasha Panin](https://github.com/justheuristic/)!
