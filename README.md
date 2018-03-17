@@ -3,9 +3,9 @@
 
 [![Join the chat at https://gitter.im/MLatURL2018/Lobby](https://badges.gitter.im/MLatURL2018/Lobby.svg)](https://gitter.im/MLatURL2018/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-Curricula:
+## Curricula:
 
-## Introduction
+### Introduction
 - logistic regression, neural nets, gradients
 - backpropogation, chain rule
 - optimization strategy
@@ -16,7 +16,7 @@ Curricula:
     + http://pytorch.org/tutorials/beginner/blitz/autograd_tutorial.html#sphx-glr-beginner-blitz-autograd-tutorial-py
     + https://github.com/spro/practical-pytorch
     
-## Dealing with images
+### Dealing with images
 - convolutional layers
 - vanishing/exploding activations
 - pooling layers
@@ -25,7 +25,7 @@ Curricula:
 - links:
     + http://cs231n.github.io/convolutional-networks/
 
-## Dealing with sequences
+### Dealing with sequences
 - Recurrent Neural Networks
 - vanishing/exploding gradients
 - LSTM, GRU
@@ -35,7 +35,7 @@ Curricula:
     + https://larseidnes.com/2015/10/13/auto-generating-clickbait-with-recurrent-neural-networks/
     + https://jhui.github.io/2017/03/15/RNN-LSTM-GRU/
 
-## Reinforcement learning
+### Reinforcement learning
 - strategy learning
 - OpenAI gym
 - Pole balancing
@@ -43,7 +43,7 @@ Curricula:
     + https://github.com/yandexdataschool/Practical_RL
     + https://github.com/yandexdataschool/sklearn-deeprl/blob/master/Sklearn_CEM_LunarLander.ipynb
 
-## Generative Adversarial Networks
+### Generative Adversarial Networks
 - Autoencoders, dimensionality reduction
 - domain adaptation
 - GANs
